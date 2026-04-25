@@ -10,11 +10,11 @@
 - ⚡ Fun fact **Je suis trop Beau**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    </a> 
-    <a href="https://pmmp.io" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pocketmine.svg" alt="pocketmine" width="40" height="40"/> 
-    </a>
+<p align="left">
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://pmmp.io" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PocketMine--MP-333333?style=for-the-badge&logo=pocketmine&logoColor=white" alt="pocketmine" height="40"/>
+  </a>
 </p>
