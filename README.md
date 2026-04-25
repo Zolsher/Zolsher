@@ -11,5 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> <a href="https://pmmp.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PocketMine--MP-333333?style=for-the-badge&logo=pocketmine&logoColor=white" alt="pocketmine" height="40"/></a> <a href="https://www.youtube.com/@TON_COMPTE" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg" alt="youtube" width="40" height="40"/></a> <a href="https://discord.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="discord" width="40" height="40"/></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,pocketmine,discord,youtube" />
+  </a>
 </p>
