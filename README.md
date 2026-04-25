@@ -12,6 +12,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,pocketmine,discord,youtube" />
+    <img src="https://skillicons.dev/icons?i=php,phpstorm,vscode,discord,youtube" />
   </a>
 </p>
