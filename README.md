@@ -3,17 +3,18 @@
 
 - 🔭 Je travaille actuellement sur [SOON](SOON)
 
-- 🌱 J'apprends actuellement **PHP**
+- 🌱 J'apprends actuellement **LE PHP**
 
-- 👯 Je cherche à collaborer sur **TheRuser**
+- 📫 Comment me contacter **discord : Zolsher**
 
-- 📫 Comment me contacter **discord : ZolsherMC**
-
-- ⚡ Fun fact **Pocketmine**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- ⚡ Fun fact **Je suis trop Beau**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<p align="left"> 
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+    </a> 
+    <a href="https://pmmp.io" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pocketmine.svg" alt="pocketmine" width="40" height="40"/> 
+    </a>
+</p>
